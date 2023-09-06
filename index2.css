@@ -1,0 +1,12 @@
+table, td{
+    border: 1px solid black;
+    border-radius:10px;
+    text-align: left;
+}
+
+th{
+    border: 1px solid black;
+    border-radius: 10px;
+    text-align: center;
+
+}
